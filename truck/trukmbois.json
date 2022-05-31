@@ -1,0 +1,64 @@
+{ "Ads": [
+  {
+    "select_main_ads": "ADMOB",
+    "select_backup_ads":"",
+    "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+    "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+    "main_ads_reward": "ca-app-pub-3940256099942544/5224354917",
+    "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+    "backup_native_for_admob_applovin":"",
+    "backup_ads_banner":"db4d5e8718b97d78",
+    "backup_ads_intertitial":"518cd97722c60b52",
+    "backup_ads_reward": "",
+    "interval_intertitial": 5,
+    "initialize_sdk":"107355779",
+    "initialize_sdk_backup_ads":"",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+
+  }
+],
+  "DATA":
+  [
+    {
+      "title":"Truck dan Livery Mahartya Putri",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-truck-terpal-segitiga-mahartya-putri.jpg",
+      "link_mods":"https://archive.org/download/truk-oleng-mbois/mahartyaputri.bussidmod",
+      "link_livery":"https://archive.org/download/truk-oleng-mbois/2.%20Mahartya%20Putri%20By%20Bagubal%20id.png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Truck Canter Wahyu Abadi Terbaru Full Anim",
+      "image":"https://ia802500.us.archive.org/12/items/truk-oleng-mbois/wahyuabadi.jpg",
+      "link_mods":"https://archive.org/download/truk-oleng-mbois/3.%20WAHYU%20ABADI.bussidmod",
+      "link_livery":"https://archive.org/download/truk-oleng-mbois/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Truck Canter Oppa Muda Bussid",
+      "image":"https://ia902500.us.archive.org/12/items/truk-oleng-mbois/oppamuda.jpg",
+      "link_mods":"https://archive.org/download/truk-oleng-mbois/Canter%20New%20Oppa%20Muda%20Terpal%20Segitiga%20by%20ADS.bussidmod",
+      "link_livery":"https://archive.org/download/truk-oleng-mbois/Livery%20Canter%20ADS%20New%20Oppa%20Muda%20By%20LfDesign.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Canter Fuso Terpal Segitiga",
+      "image":"https://ia902500.us.archive.org/12/items/truk-oleng-mbois/CanterFusoTerpalSegitiga.jpg",
+      "link_mods":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga%20LIVERY%20FIX%20KHANZA%20BUDESIGN.png",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Truck Souleh Art Terpal Segitiga Bussid",
+      "image":"https://ia802500.us.archive.org/12/items/truk-oleng-mbois/TruckSoulehArt.jpg",
+      "link_mods":"https://archive.org/download/truk-oleng-mbois/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA.bussidmod",
+      "link_livery":"https://archive.org/download/truk-oleng-mbois/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA-%20LIVERY%20RAJA%20INSUN%20BUDESIGN.png",
+      "lock": "true"
+    }
+  ]
+}
