@@ -1,0 +1,91 @@
+{ "Ads": [
+  {
+    "select_main_ads": "ADMOB",
+    "select_backup_ads":"",
+    "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+    "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+    "main_ads_reward": "ca-app-pub-3940256099942544/5224354917",
+    "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+    "backup_native_for_admob_applovin":"",
+    "backup_ads_banner":"db4d5e8718b97d78",
+    "backup_ads_intertitial":"518cd97722c60b52",
+    "backup_ads_reward": "",
+    "interval_intertitial": 5,
+    "initialize_sdk":"107355779",
+    "initialize_sdk_backup_ads":"",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+
+  }
+],
+  "DATA":
+  [
+    {
+      "title":"Truck Canter New Calista",
+      "image":"file:///android_asset/1.jpg",      "link_mods":"https://archive.org/download/trukmuatanberat/1.newcalista.bussidmod",
+      "link_livery":"https://archive.org/download/trukmuatanberat/1.newcalista.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Canter Muatan Sawit",
+      "image":"file:///android_asset/2.jpg",       "link_mods":"https://archive.org/download/trukmuatanberat/2.ANTOBOLLO.bussidmod",
+      "link_livery":"https://archive.org/download/trukmuatanberat/2.LiveryAntobolo.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Fuso Trailer Muatan Hitachi Excavator",
+      "image":"file:///android_asset/3.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/3.hinoexcavator.bussidmod",
+      "link_livery":"https://archive.org/download/trukmuatanberat/3.hinoexcavator.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Fuso 3D Muat Alat Berat Bulldozer",
+      "image":"file:///android_asset/4.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/4.fusobuldoser.bussidmod",
+      "link_livery":"",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Fuso Isuzu Panjang Muatan Alat Berat",
+      "image":"file:///android_asset/5.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/5.isuzugiga.bussidmod",
+      "link_livery":"https://archive.org/download/trukmuatanberat/5.isuzugiga.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Fuso Long Chasis Full Muatan",
+      "image":"file:///android_asset/6.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/6.Fusolong.bussidvehicle",
+      "link_livery":"",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Hino Kontainer Box Panjang",
+      "image":"file:///android_asset/7.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/7.hinotrailer.zip",
+      "link_livery":"",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Hino Siba Surya Terpal 3D",
+      "image":"file:///android_asset/8.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/8.sibasurya.zip",
+      "link_livery":"",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Hino Muatan Mobil",
+      "image":"file:///android_asset/9.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/9.hinomuatanmobil.bussidmod",
+      "link_livery":"https://archive.org/download/trukmuatanberat/9.hinomuatanmobil.png",
+      "lock": "true"
+    
+    }
+  ]
+}
