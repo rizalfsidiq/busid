@@ -1,0 +1,93 @@
+{ "Ads": [
+  {
+    "select_main_ads": "ADMOB",
+    "select_backup_ads":"",
+    "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+    "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+    "main_ads_reward": "ca-app-pub-3940256099942544/5224354917",
+    "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+    "backup_native_for_admob_applovin":"",
+    "backup_ads_banner":"db4d5e8718b97d78",
+    "backup_ads_intertitial":"518cd97722c60b52",
+    "backup_ads_reward": "",
+    "interval_intertitial": 5,
+    "initialize_sdk":"107355779",
+    "initialize_sdk_backup_ads":"",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+
+  }
+],
+  "DATA":
+  [
+    {
+      "title":"Truck Hino 500 Tangki Full Anim",
+      "image":"file:///android_asset/1.jpg",      
+      "link_mods":"https://archive.org/download/truk-tangki_202206/1.HINO500TANGKISHAREBYJODSTV.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/1.HINO500TANGKISHAREBYJODSTV.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck UD Quester Trailer Tangki Shell Ukuran Panjang",
+      "image":"file:///android_asset/2.jpg",       
+      "link_mods":"https://archive.org/download/truk-tangki_202206/2.MODBUSSIDTruckUDQuesterTrailerTangkibyAdeIskandar.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/2.LiveryShel%20UDQuesterbyAdeIskandar.png",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Nissan UD Quester Full Anim",
+      "image":"file:///android_asset/3.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/3.NISSANUDQUESTERSHAREBYJODSTV.bussidmod",
+      "link_livery":"",
+      "lock": "false"
+    },
+    {
+      "title":"Truck Fuso New Figher C11 Full Anim",
+      "image":"file:///android_asset/4.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/4.FUSONEWFIGHTERSHAREBYJODSTV.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/4.c11fusonewfighter62.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Hino Dutro Tangki Pertamina Full Anim",
+      "image":"file:///android_asset/5.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/5.HINODUTROTANKISHAREBYJODSTV.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/5.HINODUTROTANKISHAREBYJODSTV.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Fuso New Fighter Pertamina Full Anim",
+      "image":"file:///android_asset/6.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/6.FUSONEWFIGHTERSHAREBYJODSTV.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/6.liverypertaminabycahndorengyoutube.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Hino Tribal Pertamina Turbo Full Anim",
+      "image":"file:///android_asset/7.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/7.HINOTRIBALTANGKISHAREBYJODSTV.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/7.PertaminaTurboHino500NGTangki.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Trailer Giga Sriboga Full Anim",
+      "image":"file:///android_asset/8.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/8.TRAILERGIGA.bussidmod",
+      "link_livery":"https://archive.org/download/truk-tangki_202206/8.TRAILERGIGA.png",
+      "lock": "true"
+    },
+    {
+      "title":"Truck Fuso TG Kapsul C20 Kotor Full Anim",
+      "image":"file:///android_asset/9.jpg",
+      "link_mods":"https://archive.org/download/truk-tangki_202206/9.FUSOTHEGREATSHAREBYJODSTV.zip",
+      "link_livery":"",
+      "lock": "true"
+    
+    }
+  ]
+}
