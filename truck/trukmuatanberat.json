@@ -1,15 +1,15 @@
 { "Ads": [
   {
     "select_main_ads": "ADMOB",
-    "select_backup_ads":"",
-    "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-    "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-    "main_ads_reward": "ca-app-pub-3940256099942544/5224354917",
-    "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
-    "backup_native_for_admob_applovin":"",
-    "backup_ads_banner":"db4d5e8718b97d78",
-    "backup_ads_intertitial":"518cd97722c60b52",
-    "backup_ads_reward": "",
+    "select_backup_ads":"APPLOVIN-M",
+    "main_ads_banner": "",
+    "main_ads_intertitial":"ca-app-pub-1952516688905076/1092815506",
+    "main_ads_reward": "ca-app-pub-1952516688905076/8779733838",
+    "main_native_for_admob_applovin":"ca-app-pub-1952516688905076/3527407152",
+    "backup_native_for_admob_applovin":"84c8f91a0eccecf9",
+    "backup_ads_banner":"",
+    "backup_ads_intertitial":"d81dea82faf9a268",
+    "backup_ads_reward": "b1ca703585778f35",
     "interval_intertitial": 1,
     "initialize_sdk":"107355779",
     "initialize_sdk_backup_ads":"",
@@ -27,13 +27,15 @@
   [
     {
       "title":"Truck Canter New Calista",
-      "image":"file:///android_asset/1.jpg",      "link_mods":"https://archive.org/download/trukmuatanberat/1.newcalista.bussidmod",
+      "image":"file:///android_asset/1.jpg",      
+      "link_mods":"https://archive.org/download/trukmuatanberat/1.newcalista.bussidmod",
       "link_livery":"https://archive.org/download/trukmuatanberat/1.newcalista.png",
       "lock": "false"
     },
     {
       "title":"Truck Canter Muatan Sawit",
-      "image":"file:///android_asset/2.jpg",       "link_mods":"https://archive.org/download/trukmuatanberat/2.ANTOBOLLO.bussidmod",
+      "image":"file:///android_asset/2.jpg",       
+      "link_mods":"https://archive.org/download/trukmuatanberat/2.ANTOBOLLO.bussidmod",
       "link_livery":"https://archive.org/download/trukmuatanberat/2.LiveryAntobolo.png",
       "lock": "false"
     },
