@@ -1,0 +1,100 @@
+{ "Ads": [
+  {
+    "select_main_ads": "ADMOB",
+    "select_backup_ads":"APPLOVIN-M",
+    "main_ads_banner": "ca-app-pub-3940256099942544/6300978xxx",
+    "main_ads_intertitial":"ca-app-pub-1952516688905076/7074349040",
+    "main_ads_reward": "ca-app-pub-1952516688905076/3271932881",
+    "main_native_for_admob_applovin":"ca-app-pub-1952516688905076/7019606202",
+    "backup_native_for_admob_applovin":"4878b8ee5a5fbb71",
+    "backup_ads_banner":"4878b8ee5a5fbb71",
+    "backup_ads_intertitial":"1cf8e661632e942b",
+    "backup_ads_reward": "64c588f9622e2aa4",
+    "interval_intertitial": 2,
+    "initialize_sdk":"107355779",
+    "initialize_sdk_backup_ads":"",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+
+  }
+],
+  "DATA":
+  [
+    {
+      "title":"Mod Mitsubishi Elf Juragan 99",
+      "image":"https://archive.org/download/ELF-mod/1.jpg",      
+      "link_mods":"https://archive.org/download/ELF-mod/1.ELF.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/1.elf%20liveryjuragan99.png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Bussid Elf Hiace Haryanto",
+      "image":"https://archive.org/download/ELF-mod/2.jpg",       
+      "link_mods":"https://archive.org/download/ELF-mod/2.Hiace.bussidvehicle",
+      "link_livery":"https://archive.org/download/ELF-mod/2.HR%20Wayang%20Hiace.png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Bussid Elf Pariwisata",
+      "image":"https://archive.org/download/ELF-mod/3.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/3.isuzu%20elf%20mbs.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/3.Livery%20Parwis%20Elf%20MBS%20By.%20Warung%20Game.png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Bussid Elf Pesona Indonesia Merah",
+      "image":"https://archive.org/download/ELF-mod/4.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/4.Fe71.bussidvehicle",
+      "link_livery":"https://archive.org/download/ELF-mod/4.Livery%20Elf%20FE71%20Jagat%20Raya%20Merah%20ALM.png",
+      "lock": "false"
+    },
+    {
+      "title":"Mod Bussid Elf Predator Full Anim",
+      "image":"https://archive.org/download/ELF-mod/5.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/5.HINODUTRO.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/5.Livery%20by%20Riandy%20khusnull.png",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Elf Bussid Harapan Jaya",
+      "image":"file:///android_asset/6.jpg",
+      "link_mods":"https://archive.org/download/trukmuatanberat/6.Fusolong.bussidvehicle",
+      "link_livery":"",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Elf Isuzu Muatan Sempati Star",
+      "image":"https://archive.org/download/ELF-mod/7.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/7.MOD%20ISUZU%20ELF%20V2%20BY%20AZUMODS%20Full%20%20Muatan.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/7.Livery%20Elf%20sempati%20star%20By.%20Warung%20Game.png",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Elf Mitsubishi Muatan Karung",
+      "image":"https://archive.org/download/ELF-mod/8.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/8.ELF%20JMC%20V1%20VERSI%20MUDIK.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/8.Livery%20BUSSID%20Elf%20Full%20Muatan%20Hitam.png",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Elf Sleeper Class Suite",
+      "image":"https://archive.org/download/ELF-mod/9.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/9.ELF_Sleeper_classs.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/9.Livery%20Espasio%20Suite%20Class%20Sinjay.png",
+      "lock": "true"
+    },
+    {
+      "title":"Mod Isuzu Elf Buhe Jaya",
+      "image":"https://archive.org/download/ELF-mod/10.jpg",
+      "link_mods":"https://archive.org/download/ELF-mod/10.%20ELF%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"https://archive.org/download/ELF-mod/10.%20elf%20BUHE%20JAYA%20BY%20HANHAN%20GAMING.png",
+      "lock": "true"
+    
+    }
+  ]
+}
