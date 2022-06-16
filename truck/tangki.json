@@ -10,7 +10,7 @@
     "backup_ads_banner":"",
     "backup_ads_intertitial":"47858f6bcb885bb8",
     "backup_ads_reward": "5c31558e5f507cbb",
-    "interval_intertitial": 1,
+    "interval_intertitial": 2,
     "initialize_sdk":"107355779",
     "initialize_sdk_backup_ads":"",
     "high_paying_keyword_1": "",
@@ -51,14 +51,14 @@
       "image":"file:///android_asset/4.jpg",
       "link_mods":"https://archive.org/download/truk-tangki_202206/4.FUSONEWFIGHTERSHAREBYJODSTV.bussidmod",
       "link_livery":"https://archive.org/download/truk-tangki_202206/4.c11fusonewfighter62.png",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Truck Hino Dutro Tangki Pertamina Full Anim",
       "image":"file:///android_asset/5.jpg",
       "link_mods":"https://archive.org/download/truk-tangki_202206/5.HINODUTROTANKISHAREBYJODSTV.bussidmod",
       "link_livery":"https://archive.org/download/truk-tangki_202206/5.HINODUTROTANKISHAREBYJODSTV.png",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Truck Fuso New Fighter Pertamina Full Anim",
