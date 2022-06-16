@@ -10,7 +10,7 @@
     "backup_ads_banner":"",
     "backup_ads_intertitial":"d81dea82faf9a268",
     "backup_ads_reward": "b1ca703585778f35",
-    "interval_intertitial": 1,
+    "interval_intertitial": 2,
     "initialize_sdk":"107355779",
     "initialize_sdk_backup_ads":"",
     "high_paying_keyword_1": "",
@@ -51,14 +51,14 @@
       "image":"file:///android_asset/4.jpg",
       "link_mods":"https://archive.org/download/trukmuatanberat/4.fusobuldoser.bussidmod",
       "link_livery":"",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Truck Fuso Isuzu Panjang Muatan Alat Berat",
       "image":"file:///android_asset/5.jpg",
       "link_mods":"https://archive.org/download/trukmuatanberat/5.isuzugiga.bussidmod",
       "link_livery":"https://archive.org/download/trukmuatanberat/5.isuzugiga.png",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Truck Fuso Long Chasis Full Muatan",
