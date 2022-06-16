@@ -30,7 +30,7 @@
       "image":"file:///android_asset/mahartyaputri.png",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/mahartyaputri.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/2.%20Mahartya%20Putri%20By%20Bagubal%20id.png",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Mod Truck Canter Wahyu Abadi Terbaru Full Anim",
@@ -51,7 +51,7 @@
       "image":"file:///android_asset/CanterFusoTerpalSegitiga.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga%20LIVERY%20FIX%20KHANZA%20BUDESIGN.png",
-      "lock": "true"
+      "lock": "false"
     },
     {
       "title":"Mod Truck Souleh Art Terpal Segitiga Bussid",
