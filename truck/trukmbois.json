@@ -1,45 +1,52 @@
-{ "Ads": [
-  {
-    "select_main_ads": "ADMOB",
-    "select_backup_ads":"APPLOVIN-M",
-    "main_ads_banner": "ca-app-pub-1952516688905076/2557007233",
-    "main_ads_intertitial":"ca-app-pub-1952516688905076/1243925563",
-    "main_ads_reward": "ca-app-pub-1952516688905076/8930843890",
-    "main_native_for_admob_applovin":"ca-app-pub-1952516688905076/7617762225",
-    "backup_native_for_admob_applovin":"4efb72216ca4ce46",
-    "backup_ads_banner":"4efb72216ca4ce46",
-    "backup_ads_intertitial":"a2ce33b522ec24b6",
-    "backup_ads_reward": "0148cf35fcfd2ff6",
-    "interval_intertitial": 2,
-    "initialize_sdk":"",
-    "initialize_sdk_backup_ads":"206861964",
-    "high_paying_keyword_1": "",
-    "high_paying_keyword_2": "",
-    "high_paying_keyword_3": "",
-    "high_paying_keyword_4": "",
-    "high_paying_keyword_5": "",
-    "status_app": "0",
-    "link_redirect": "https://"
-
-  }
-],
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1952516688905076/2023794775",
+      "main_ads_intertitial":"ca-app-pub-1952516688905076/1243925563",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-1952516688905076/7617762225",
+      "main_ads_rewards":"ca-app-pub-1952516688905076/8930843890",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"1594725bd",
+      "survey_api_key":"21829f60-05fa-40b5-b073-baa19b8650af",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
   "DATA":
   [
     {
+      "id": 1,
+      "category":"Bis",
       "title":"Truck dan Livery Mahartya Putri",
       "image":"file:///android_asset/mahartyaputri.png",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/mahartyaputri.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/2.%20Mahartya%20Putri%20By%20Bagubal%20id.png",
-      "lock": "false"
+      
     },
     {
+      "id": 2,
+      "category":"Bis",
       "title":"Mod Truck Canter Wahyu Abadi Terbaru Full Anim",
       "image":"file:///android_asset/wahyuabadi.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/3.%20WAHYU%20ABADI.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png",
-      "lock": "false"
+     
     },
     {
+      "id": 3,
+      "category":"Bis",
       "title":"Mod Truck Canter Oppa Muda Bussid",
       "image":"file:///android_asset/oppamuda.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/Canter%20New%20Oppa%20Muda%20Terpal%20Segitiga%20by%20ADS.bussidmod",
@@ -47,34 +54,44 @@
       "lock": "false"
     },
     {
+      "id": 4,
+      "category":"Bis",
       "title":"Truck Canter Fuso Terpal Segitiga",
       "image":"file:///android_asset/CanterFusoTerpalSegitiga.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/Truck%20Canter%20Fuso%20Terpal%20Segitiga%20LIVERY%20FIX%20KHANZA%20BUDESIGN.png",
-      "lock": "false"
+      
     },
     {
+      "id": 5,
+      "category":"Bis",
       "title":"Mod Truck Souleh Art Terpal Segitiga Bussid",
       "image":"file:///android_asset/TruckSoulehArt.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA-%20LIVERY%20RAJA%20INSUN%20BUDESIGN.png",
-      "lock": "true"
+      
     },
     {
+      "id": 6,
+      "category":"Bis",
       "title":"Canter Oleng Sweet Angel",
       "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
       "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
       "link_livery":"",
-      "lock": "true"
+      
     },
     {
+      "id": 7,
+      "category":"Bis",
       "title":"truck Oleng Canter ayam velg racing",
       "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
       "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
       "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png",
-      "lock": "true"
+      
     },
     {
+      "id": 8,
+      "category":"Bis",
       "title":"Truck Canter Oleng Tronton",
       "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
       "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
