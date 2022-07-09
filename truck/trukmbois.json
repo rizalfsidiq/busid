@@ -51,7 +51,7 @@
       "image":"file:///android_asset/oppamuda.jpg",
       "link_mods":"https://archive.org/download/truk-oleng-mbois/Canter%20New%20Oppa%20Muda%20Terpal%20Segitiga%20by%20ADS.bussidmod",
       "link_livery":"https://archive.org/download/truk-oleng-mbois/Livery%20Canter%20ADS%20New%20Oppa%20Muda%20By%20LfDesign.png",
-      "lock": "false"
+      
     },
     {
       "id": 4,
@@ -77,7 +77,7 @@
       "title":"Canter Oleng Sweet Angel",
       "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
       "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
-      "link_livery":"",
+      "link_livery":"null",
       
     },
     {
